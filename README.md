@@ -1,2 +1,2 @@
 # exercicioApostilaFaccat
-Resolução completa e estruturada dos exercícios de lógica de programação do livro "Algoritmos" (Manzano). Algoritmos, Diagramas de Bloco e códigos em VisuAlg (Português Estruturado) para fixação de estruturas de controle e repetição.
+Resolução prática e estruturada dos exercícios da Apostila de Lógica de Programação e Algoritmos da FACCAT. Algoritmos codificados em VisuAlg (Português Estruturado) cobrindo estruturas sequenciais, condicionais e laços de repetição.
